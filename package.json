@@ -1,12 +1,18 @@
 {
-    "name": "com.eatjune.entityutils",
-    "displayName": "Entity Utils",
-    "version": "0.0.1",
-    "unity": "2022.3",
-    "unityRelease": "40f1",
-    "description": "包含一套完整的实体系统以及对象池系统，依赖于Unity的GameObject",
-    "keywords": ["Unity","Entity","GameObject","Pool"],
-    "author": "EatJune",
-    "dependencies":{},
-    "samples": []
+  "name": "com.eatjune.entityutils",
+  "displayName": "Entity Utils",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "unityRelease": "40f1",
+  "description": "包含一套完整的实体系统以及对象池系统，依赖于Unity的GameObject",
+  "keywords": [
+    "Unity",
+    "Entity",
+    "GameObject",
+    "Pool"
+  ],
+  "author": "EatJune",
+  "dependencies": {
+  },
+  "samples": []
 }
